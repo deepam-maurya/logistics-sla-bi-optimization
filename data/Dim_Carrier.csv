@@ -1,0 +1,4 @@
+carrier,service_tier,sla_standard_hours
+DHL,Express & Standard,24
+UPS,Express & Freight,24
+DPD,Standard Parcel,48

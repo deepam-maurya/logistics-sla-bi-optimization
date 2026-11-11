@@ -1,0 +1,5 @@
+exception_code,exception_category,requires_manual_rework
+DAMAGED_BARCODE,Labeling & Scanning,Yes
+DAMAGED_PACKAGING,Physical Damage,Yes
+DAMAGED_LABEL,Labeling & Scanning,Yes
+CUSTOMS_HOLD,Regulatory / Documentation,Yes
